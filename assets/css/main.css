@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'segoe', sans-serif;
 		line-height: 1.85em;
-		color: #FFFFFF;
+		color: #3E3E3E;
 		font-weight: 300;
 		font-size: 12pt;
 	}
@@ -124,7 +124,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #FFFFFF;
+		color: #3E3E3E;
 	}
 
 	i, em {
@@ -1993,7 +1993,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #161C26;
+			background-color: #e5e5e5;
 		}
 
 		.wrapper.style2 {
